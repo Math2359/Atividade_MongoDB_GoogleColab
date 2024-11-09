@@ -1,6 +1,6 @@
 # Atividade Utilizando Pandas, MongoDB e RESTCountries
 
-Para este projeto foi utilizado:
+Para este projeto foram utilizados:
 1. Pandas para extrair o JSON da API https://restcountries.com/
 2. MongoDB para armazenar os dados
 3. pymongo para manipulação de dados
